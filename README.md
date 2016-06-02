@@ -3,7 +3,7 @@ A slack bot, looking for #gems
 
 ## Install
 
-`npm install`
+clone or download, then in the unpacked directory, run: `npm install`
 
 ### Setup
 
