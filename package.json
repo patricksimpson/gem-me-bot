@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "node-file-exists": "^1.1.0",
+    "path": "^0.12.7",
     "slack": "^7.2.0",
     "slackbots": "^0.5.1"
   },
