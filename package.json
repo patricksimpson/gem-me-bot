@@ -2,9 +2,9 @@
   "name": "gem-bot",
   "version": "1.0.0",
   "description": "",
-  "main": "lib/gem-bot.js",
+  "main": "lib/bot.js",
   "scripts": {
-    "start": "babel-node bot.js"
+    "start": "babel-node lib/bot.js"
   },
   "author": "",
   "license": "ISC",
