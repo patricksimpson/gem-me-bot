@@ -4,11 +4,12 @@
   "description": "",
   "main": "lib/bot.js",
   "scripts": {
-    "start": "babel-node lib/bot.js"
+    "start": "node node_modules/babel-cli/bin/babel-node.js lib/bot.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "babel-cli": "^6.9.0",
     "node-file-exists": "^1.1.0",
     "path": "^0.12.7",
     "slack": "^7.2.0",
