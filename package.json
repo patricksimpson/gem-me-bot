@@ -14,11 +14,11 @@
     "node-file-exists": "^1.1.0",
     "path": "^0.12.7",
     "slack": "^7.2.0",
+    "node-env-file": "^0.1.8",
+    "lodash": "^4.13.1",
     "slackbots": "^0.5.1"
   },
   "devDependencies": {
-    "babel-cli": "^6.9.0",
-    "lodash": "^4.13.1",
-    "node-env-file": "^0.1.8"
+    "babel-cli": "^6.9.0"
   }
 }
