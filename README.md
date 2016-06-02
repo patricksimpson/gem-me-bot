@@ -15,7 +15,7 @@ Change your "gem" channel to the name of your `gems`. (e.g. `#gems`).
     
 ## Run
 
-`npm run start` or `babel-node bot.js`
+`npm run start` or `babel-node lib/bot.js`
 
 ### Requirements
 
