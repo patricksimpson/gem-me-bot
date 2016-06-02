@@ -1,6 +1,8 @@
 # gem-me-bot
 A slack bot, looking for #gems
 
+This project uses the https://github.com/smallwins/slack library for slack RTM in node. 
+
 ## Install
 
 clone or download, in the unpacked directory, run: `npm install`
