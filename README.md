@@ -24,3 +24,7 @@ Change your "gem" channel to the name of your `gems`. (e.g. `#gems`).
   - node 4+
   - npm 2+
   - babel
+
+### Running forever:
+
+`forever node_modules/babel-cli/bin/babel-node.js lib/bot.js`
