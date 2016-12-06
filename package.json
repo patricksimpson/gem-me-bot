@@ -4,8 +4,7 @@
   "description": "",
   "main": "lib/bot.js",
   "scripts": {
-    "start": "./node_modules/babel-cli/bin/babel-node.js lib/bot.js",
-    "postinstall": "npm run start"
+    "start": "./node_modules/babel-cli/bin/babel-node.js lib/bot.js"
   },
   "author": "Patrick Simpson",
   "license": "ISC",
