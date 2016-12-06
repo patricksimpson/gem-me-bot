@@ -4,7 +4,8 @@
   "description": "",
   "main": "lib/bot.js",
   "scripts": {
-    "start": "./node_modules/babel-cli/bin/babel-node.js lib/bot.js"
+    "start": "./node_modules/babel-cli/bin/babel-node.js lib/bot.js",
+    "postinstall": "npm run start"
   },
   "author": "",
   "license": "ISC",
