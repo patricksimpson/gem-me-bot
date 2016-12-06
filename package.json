@@ -7,7 +7,7 @@
     "start": "./node_modules/babel-cli/bin/babel-node.js lib/bot.js",
     "postinstall": "npm run start"
   },
-  "author": "",
+  "author": "Patrick Simpson",
   "license": "ISC",
   "dependencies": {
     "babel-cli": "^6.9.0",
@@ -21,5 +21,7 @@
   },
   "devDependencies": {
     "babel-cli": "^6.9.0"
+  },
+  "engines": {
+    "node": "6.0.0"
   }
-}
